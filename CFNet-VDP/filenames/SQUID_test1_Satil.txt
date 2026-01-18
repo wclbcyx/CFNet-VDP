@@ -1,0 +1,8 @@
+images/Satil/image_set_07/LFT_3927resizedUndistort.tif images/Satil/image_set_07/RGT_4388resizedUndistort.tif images/Satil/image_set_07/LFT_disparity.mat
+images/Satil/image_set_01/LFT_3875resizedUndistort.tif images/Satil/image_set_01/RGT_4336resizedUndistort.tif images/Satil/image_set_01/LFT_disparity.mat
+images/Satil/image_set_05/LFT_3923resizedUndistort.tif images/Satil/image_set_05/RGT_4384resizedUndistort.tif images/Satil/image_set_05/LFT_disparity.mat
+images/Satil/image_set_03/LFT_3920resizedUndistort.tif images/Satil/image_set_03/RGT_4381resizedUndistort.tif images/Satil/image_set_03/LFT_disparity.mat
+images/Satil/image_set_08/LFT_3890resizedUndistort.tif images/Satil/image_set_08/RGT_4351resizedUndistort.tif images/Satil/image_set_08/LFT_disparity.mat
+images/Satil/image_set_02/LFT_3915resizedUndistort.tif images/Satil/image_set_02/RGT_4376resizedUndistort.tif images/Satil/image_set_02/LFT_disparity.mat
+images/Satil/image_set_04/LFT_3921resizedUndistort.tif images/Satil/image_set_04/RGT_4382resizedUndistort.tif images/Satil/image_set_04/LFT_disparity.mat
+images/Satil/image_set_06/LFT_3857resizedUndistort.tif images/Satil/image_set_06/RGT_4318resizedUndistort.tif images/Satil/image_set_06/LFT_disparity.mat

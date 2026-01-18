@@ -1,0 +1,5 @@
+ship/images/left/008726.png ship/images/right/008726.png ship/disparity/008726.pfm
+ship/images/left/009039.png ship/images/right/009039.png ship/disparity/009039.pfm
+coral/images/left/062753.png coral/images/right/062753.png coral/disparity/062753.pfm
+coral/images/left/062785.png coral/images/right/062785.png coral/disparity/062785.pfm
+coral/images/left/062918.png coral/images/right/062918.png coral/disparity/062918.pfm
